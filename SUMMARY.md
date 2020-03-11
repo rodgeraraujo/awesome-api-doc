@@ -1,9 +1,12 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [My Awesome API](overview/readme.md)
 
 ## Methods
 
-* [Defining Methods](methods.md)
+* [Defining Methods](methods/methods.md)
+
